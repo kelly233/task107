@@ -1,6 +1,6 @@
 'use strict';
 
-var count_same_elements = require("../../practices/section_2/practice_3/practice.js");
+var count_same_elements = require("../../practices/section_2/practice_3.js");
 
 describe('practice-2-3', function() {
 
